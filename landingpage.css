@@ -1,0 +1,94 @@
+#s1{
+    height: 100vh;
+    background-image: url("./pizza1.jpg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+#p1{
+    color: white;
+    font-family: cursive;
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: larger;
+}
+
+#pizza{
+    font-size: 200px;
+    border: 0px;
+    margin: 0px;
+    padding-top: 80px;
+    text-align: center;
+    color: rgb(244, 10, 10);
+    font-family: 'Pacifico', cursive;
+}
+
+#doneright{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+
+.sbs {
+    width: 48%; 
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px; 
+    vertical-align: top;
+    margin: 5.35vh 0vh;
+}
+
+#menu,#hours{
+    color: rgb(244, 10, 10);
+    font-family: 'Pacifico', cursive;
+    font-size: 45px;
+}
+
+.menupara{
+    font-size: 25px;
+    font-family: Georgia, serif;
+}
+
+#lto{
+    color: rgb(244, 10, 10);
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+#pizza2{
+    border-radius: 50%;
+    height: 50vh;
+    width: 50vh;
+}
+
+.right{
+    margin-top: 25vh;
+}
+
+#s3{
+    background-image: url("./pizza3.jpg");
+    height: 100vh;
+}
+
+
+#about{
+    font-size: 100px;
+    border: 0px;
+    margin: 0px;
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+#aboutp{
+    color: white;
+    margin: 10vh 25vw 0px 25vw;
+    font-size: 20px;
+}
+
